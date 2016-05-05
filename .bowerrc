@@ -1,0 +1,19 @@
+{
+    "directory": "public/js/",
+    "analytics": false,
+    "timeout": 120000,
+    "registry": {
+        "search": ["https://bower.herokuapp.com"]
+    },
+    "dependencies": {
+        "jquery": "*",
+        "bootstrap": "*",
+        "angular": "*",
+        "angulartics-google-analytics": "*",
+        "angular-img-fallback": "*",
+        "angular-social": "*",
+        "angular-filter": "*",
+        "angular-material": "*",
+        "satellizer": "*"
+    }
+}

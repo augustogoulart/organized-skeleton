@@ -1,0 +1,15 @@
+{
+    "name": "organized-skeleton",
+    "version": "0.0.1",
+    "description": "Base skeleton of organized module",
+    "keywords": ["organized", "skeleton"],
+    "homepage": "https://github.com/andrehrf/organized-skeleton",
+    "author": "André Ferreira <andrehrf@gmail.com>",
+    "dependencies": {
+        "organized": "^0.0.7",
+        "optimist": "^0.6.1",
+        "express": "^4.13.4", 
+        "compression": "^1.6.0",
+        "lodash": "^4.6.1"
+    }
+}

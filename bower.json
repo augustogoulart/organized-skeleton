@@ -1,0 +1,18 @@
+{
+    "name": "its-simple",
+    "description": "Comprar nunca foi tão fácil",
+    "keywords": ["buscador de preço", "comparador de preço", "assistente de compras"],
+    "authors": ["André Ferreira <andrehrf@gmail.com>"],
+    "private": true,
+    "dependencies": {
+        "jquery": "*",
+        "bootstrap": "*",
+        "angular": "*",
+        "angulartics-google-analytics": "*",
+        "angular-img-fallback": "*",
+        "angular-social": "*",
+        "angular-filter": "*",
+        "angular-material": "*",
+        "satellizer": "*"
+    }    
+}
